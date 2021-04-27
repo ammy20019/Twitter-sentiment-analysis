@@ -1,0 +1,7 @@
+Flask
+tensorflow
+flask_ngrok
+gunicorn
+sklearn
+
+
