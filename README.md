@@ -1,7 +1,7 @@
-# Twitter-sentiment-analysis
-Live twitter sentiment analysis using Machine Learning model
-Naive Bayes
-Neura Networks
+# Twitter-sentiment-analysis using Cloud Computation
+Live twitter sentiment analysis from Twitter API using Machine Learning model<br>
+Naive Bayes<br>
+Neural Networks<br>
 
 ![Slide 1](https://github.com/ammy20019/Twitter-sentiment-analysis/blob/main/cloud_computing%20presentation/Slide1.PNG)
 
